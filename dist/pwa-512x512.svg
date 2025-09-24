@@ -1,0 +1,18 @@
+<!-- 512x512 SVG icon for PWA -->
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="512" height="512" rx="64" fill="#3b82f6"/>
+  
+  <!-- Note lines -->
+  <g transform="translate(128, 154)">
+    <rect width="256" height="26" rx="5" fill="white"/>
+    <rect y="42" width="256" height="26" rx="5" fill="white"/>
+    <rect y="84" width="192" height="26" rx="5" fill="white"/>
+    <rect y="126" width="256" height="26" rx="5" fill="white"/>
+    <rect y="168" width="170" height="26" rx="5" fill="white"/>
+  </g>
+  
+  <!-- Checkmark -->
+  <circle cx="384" cy="128" r="42" fill="white"/>
+  <path d="M362 128l16 16 32-32" stroke="#3b82f6" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
